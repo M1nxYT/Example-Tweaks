@@ -1,0 +1,2 @@
+Tested on:
+iPhone 7 Plus - iOS 14.3 - All working as intended

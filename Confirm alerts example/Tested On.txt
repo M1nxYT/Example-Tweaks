@@ -1,0 +1,3 @@
+Tested on:
+iPhone 7 Plus - iOS 14.3 - All working as intended
+iPhone 12 - iOS 14.3 - All working as intended
